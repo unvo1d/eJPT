@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "72fcc13aeb2439c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa0d85996d5c2ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb35799383d29f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Tools/Nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61b49e2f499681c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "89b4b06edebf23ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc58551b3cd0925a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dad84835f86c41fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a15e8a24aa2b579",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bb212b621cde86d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6346964060aeec5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a7de999d9579049",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Herramientas/Tools/Nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "945d1938736dcc03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Herramientas/Tools/Nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a6c04f87cc0e55c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b18e4e86f5dc97fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Herramientas/Tools/Nmap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cb35799383d29f90",
+  "lastOpenFiles": [
+    "Herramientas/Tools/Nmap.md",
+    "Sin título.canvas",
+    "Herramientas/Comando/Host.md",
+    "Herramientas/Comando/Sublist3r.md",
+    "Herramientas/Tools/Chisel.md",
+    "Herramientas/Comando/Wafw00f.md",
+    "Herramientas/Websites/Intelx.io.md",
+    "Herramientas/Comando/Dnsrecon.md",
+    "Herramientas/Comando/WhatWeb.md",
+    "Herramientas/Websites/DNSdumpster.com.md",
+    "Herramientas/Websites/Netcraft.com.md",
+    "Herramientas/Websites/PimEyes.md",
+    "Herramientas/Websites/Phonebook.cz.md",
+    "Herramientas/Websites/Hunter.io.md",
+    "Herramientas/Websites",
+    "Herramientas/Websites/Google Dorks.md",
+    "Metodologia/7 - Pivoting",
+    "Herramientas/Add-ons/Wappalyzer.md",
+    "Herramientas/Otros",
+    "Herramientas/Add-ons/BuiltWith.md",
+    "Herramientas/Add-ons",
+    "Herramientas/Tools",
+    "Herramientas/Comando",
+    "Guia Obsidian.md",
+    "Metodologia/8 - Persistencia",
+    "Metodologia/6 - Escalada privilegios",
+    "Metodologia/5 - Post-explotacion",
+    "Metodologia/4 - Explotacion",
+    "google.es.md",
+    "Herramientas/WP/WP-Config-Scan.md",
+    "Conceptos/Protocolos/Sin título.md"
+  ]
+}
