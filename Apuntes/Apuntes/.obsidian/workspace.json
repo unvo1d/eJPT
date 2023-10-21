@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/Tools/Nmap.md",
+                "file": "Herramientas/Comando/Reaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#magento",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas/Tools/Nmap.md",
-                "collapseAll": false,
+                "file": "Herramientas/Comando/Reaver.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas/Tools/Nmap.md",
+                "file": "Herramientas/Comando/Reaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas/Tools/Nmap.md"
+                "file": "Herramientas/Comando/Reaver.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +148,24 @@
   },
   "active": "cb35799383d29f90",
   "lastOpenFiles": [
+    "Herramientas/Tools/Linux-smart-enumeration.md",
+    "Herramientas/Comando/Reaver.md",
+    "Herramientas/Comando/Wafw00f.md",
+    "Herramientas/Comando/Hydra.md",
+    "Herramientas/Tools/Magescan.md",
+    "Herramientas/Comando/Droopescan.md",
+    "Herramientas/Comando/Joomscan.md",
+    "Herramientas/Tools/Chisel.md",
+    "Herramientas/Comando/Curl.md",
+    "Herramientas/Comando/Wp-scan.md",
+    "Herramientas/Comando/Smbclient.md",
+    "Herramientas/Comando/Sslyze.md",
+    "Herramientas/Comando/Sslscan.md",
+    "Herramientas/Comando/Openssl s_client.md",
     "Herramientas/Tools/Nmap.md",
     "Sin título.canvas",
     "Herramientas/Comando/Host.md",
     "Herramientas/Comando/Sublist3r.md",
-    "Herramientas/Tools/Chisel.md",
-    "Herramientas/Comando/Wafw00f.md",
     "Herramientas/Websites/Intelx.io.md",
     "Herramientas/Comando/Dnsrecon.md",
     "Herramientas/Comando/WhatWeb.md",
@@ -164,19 +177,13 @@
     "Herramientas/Websites",
     "Herramientas/Websites/Google Dorks.md",
     "Metodologia/7 - Pivoting",
-    "Herramientas/Add-ons/Wappalyzer.md",
     "Herramientas/Otros",
-    "Herramientas/Add-ons/BuiltWith.md",
     "Herramientas/Add-ons",
     "Herramientas/Tools",
     "Herramientas/Comando",
-    "Guia Obsidian.md",
     "Metodologia/8 - Persistencia",
     "Metodologia/6 - Escalada privilegios",
     "Metodologia/5 - Post-explotacion",
-    "Metodologia/4 - Explotacion",
-    "google.es.md",
-    "Herramientas/WP/WP-Config-Scan.md",
-    "Conceptos/Protocolos/Sin título.md"
+    "Metodologia/4 - Explotacion"
   ]
 }
